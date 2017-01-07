@@ -4,7 +4,7 @@
 //
 //  Created by qiyun on 17/1/7.
 //  Copyright © 2017年 qiyun. All rights reserved.
-//
+//  apple example <https://developer.apple.com/library/content/samplecode/MusicCube/Listings/Classes_MyOpenALSupport_h.html>
 
 #import <Foundation/Foundation.h>
 #import <OpenAL/OpenAL.h>
